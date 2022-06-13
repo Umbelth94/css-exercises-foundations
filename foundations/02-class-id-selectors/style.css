@@ -8,12 +8,12 @@
 }
 
 #two {
-    color:blue;
+    color:#2323db;
     font-size:36px;
 }
 
 #four {
-    background-color:lightgreen;
+    background-color:hsl(120, 73%, 75%);
     font-size:24px;
     font-weight:bold;
 }
