@@ -1,0 +1,15 @@
+.black,
+.yellow {
+    font-size:28px;
+    font-family:Helvetica,"Times New Roman",sans-serif;
+}
+/*We grouped 
+
+.black {
+    background-color: #000000;
+    color:#ffffff;
+}
+
+.yellow {
+    background-color:#f3e703;
+}
