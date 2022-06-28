@@ -7,6 +7,31 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+a:link{
+  text-decoration:none;
+  color:gray;
+}
+a:visited {text-decoration:none}
+a:hover{text-decoration:none;}
+a:active{text-decoration:none;}
+
+
+li {
+  list-style:none;
+}
+
+.header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+  .left-links ,.right-links {
+    display:flex;
+    justify-content:center;
+    padding:03px 15px;
+    gap:15px;
+  }
+
 img {
   width: 600px;
 }
