@@ -4,6 +4,7 @@ body {
   display:flex;
   height: 100vh;
   flex-direction:column;
+  justify-content:space-between;
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
@@ -36,11 +37,13 @@ li {
     gap:15px;
   }
 
-/*Centers the logo, search bar, and buttons */
+/*Centers the logo (horizontally), search bar, and buttons */
 .content{
   display:flex;
   flex-direction:column;
   align-items:center;
+  justify-content:center;
+  flex:1;
 }
 
 .footer{
